@@ -1,0 +1,25 @@
+{
+  "name": "gmail_nodemailer_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archanajyothy/gmail_nodemailer_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Archanajyothy/gmail_nodemailer_backend/issues"
+  },
+  "homepage": "https://github.com/Archanajyothy/gmail_nodemailer_backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.4",
+    "nodemon": "^3.0.1"
+  }
+}
