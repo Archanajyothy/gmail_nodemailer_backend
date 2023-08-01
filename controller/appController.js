@@ -35,7 +35,7 @@ const signup = async (req, res) => {
       })
       
 
-    res.status(201).json("Signup successfully...!")
+    // res.status(201).json("Signup successfully...!")
 }
 
 const getbill = (req, res) => {
